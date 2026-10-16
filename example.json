@@ -1,0 +1,34 @@
+{
+  "rows": [
+    {
+      "id": "0",
+      "baseline": true,
+      "candidate": true
+    },
+    {
+      "id": "1",
+      "baseline": false,
+      "candidate": true
+    },
+    {
+      "id": "2",
+      "baseline": false,
+      "candidate": true
+    },
+    {
+      "id": "3",
+      "baseline": true,
+      "candidate": false
+    },
+    {
+      "id": "4",
+      "baseline": false,
+      "candidate": false
+    },
+    {
+      "id": "5",
+      "baseline": true,
+      "candidate": true
+    }
+  ]
+}

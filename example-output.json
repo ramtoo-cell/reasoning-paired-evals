@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.5,
+  "candidate_accuracy": 0.6666666666666666,
+  "ci95_percentile": [
+    -0.3333333333333333,
+    0.6666666666666666
+  ],
+  "exact_discordance_p": 1.0,
+  "losses": 1,
+  "n": 6,
+  "paired_delta": 0.16666666666666666,
+  "wins": 2
+}
